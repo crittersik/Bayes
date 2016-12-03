@@ -1,2 +1,2 @@
 # Bayes
-excercises
+Excercises Bayes related
